@@ -12,7 +12,7 @@
 # mkdir [name] = make a directory
 # touch [name] = make a file
 # mv [name file] [local] = mova a object to specifc place
-# cp [l+a] [l+a] = copy a file
+# cp [l+a] [l+a] = copy a fil
 # . = here = pwd
 # .. = here behind
 # cat [file] = sow what`s in the file
