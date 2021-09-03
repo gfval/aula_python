@@ -12,10 +12,8 @@
 # mkdir [name] = make a directory
 # touch [name] = make a file
 # mv [name file] [local] = mova a object to specifc place
-# cp [l+a] [l+a] = copy a fil
+# cp [l+a] [l+a] = copy a file
 # . = here = pwd
 # .. = here behind
 # cat [file] = sow what`s in the file
 # nano [file] = modify what`s inside file
-das
- 
