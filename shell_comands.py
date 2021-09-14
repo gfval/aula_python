@@ -17,5 +17,5 @@
 # .. = here behind
 # cat [file] = sow what`s in the file
 # nano [file] = modify what`s inside file
-# sudo apt-get update = 
-# sudo apt-get upgrade
+# sudo apt-get update = update the list of internal and external programs
+# sudo apt-get upgrade = instal the downloaded files
